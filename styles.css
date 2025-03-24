@@ -69,6 +69,19 @@ body {
     flex: 1;
 }
 
+.project-title {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.company-logo {
+    height: 1.2em;
+    width: auto;
+    vertical-align: middle;
+}
+
 a {
     color: #0366d6;
     text-decoration: none;
